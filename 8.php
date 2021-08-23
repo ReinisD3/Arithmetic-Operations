@@ -2,7 +2,7 @@
 
 $employeesData = [
     ['Employee' => 'Employee 1','BasePay' => 7.5,'HoursWorked'=>35],
-    ['Employee' => 'Employee 2','BasePay' => 10,'HoursWorked'=>41],
+    ['Employee' => 'Employee 2','BasePay' => 8.2,'HoursWorked'=>47],
     ['Employee' => 'Employee 3','BasePay' => 10,'HoursWorked'=>73],
 ];
 
